@@ -1,10 +1,6 @@
 {
 	"name": "AcquirerAggregates",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "cstardsa_linked_service",
-			"type": "LinkedServiceReference"
-		},
 		"annotations": [],
 		"type": "DelimitedText",
 		"typeProperties": {
